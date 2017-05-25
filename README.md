@@ -1,3 +1,3 @@
-= Dynamic Periodic Table
+# Dynamic Periodic Table
 
-== The idea is to use a Kohonen Self Organizing Map to create a new layout to the IUPAC periodic table
+### The idea is to use a Kohonen Self Organizing Map to create a new layout to the IUPAC periodic table
