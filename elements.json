@@ -16,7 +16,7 @@
         "bondingType": "diatomic",
         "meltingPoint": 14,
         "boilingPoint": 20,
-        "density": 8.99e-05,a
+        "density": 8.99e-05,
         "groupBlock": "nonmetal",
         "position": [
             1,
